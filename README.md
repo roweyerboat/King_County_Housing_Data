@@ -18,3 +18,6 @@ I iterated through the different house features and settled on a model with feat
 ## Files
 
 Column names gives a description of the data listed in each column. Student is the jupyter notebook used for this project. Presentation gives a brief overview of the findings in the project. KC_housing data is the data file.
+
+## Blog
+Here is the link for the blog I wrote while completing this project: https://roweyerboat.github.io/cleaning_geographical_data
