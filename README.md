@@ -15,9 +15,16 @@ I explored 3 questions in the data:
 
 I iterated through the different house features and settled on a model with features that predict the cost of the house.
 
+## Results
+After limiting the houses to the affordable range, I was able to create a prediction with a r^2 value of .922.
+![Results from Regression](https://i.imgur.com/MeeyUpm.png)
+
 ## Files
 
 Column names gives a description of the data listed in each column. Student is the jupyter notebook used for this project. Presentation gives a brief overview of the findings in the project. KC_housing data is the data file.
 
 ## Blog
 Here is the link for the blog I wrote while completing this project: https://roweyerboat.github.io/cleaning_geographical_data
+
+## Contact Info
+[LinkedIn](https://www.linkedin.com/in/amanda-rowe-data/)
